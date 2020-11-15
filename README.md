@@ -38,4 +38,8 @@ Internal 	16GB 2GB RAM
 
 eMMC 5.1
   
-P.S. wysłałem tu tylko te  "rzeczy" które zmieniłem/ stworzyłem 
+  
+Wysłałem tu tylko te  "rzeczy" które zmieniłem/ stworzyłem 
+
+w master znajdują sie kody java, reszta gałęzi zgodnie z opisem
+
